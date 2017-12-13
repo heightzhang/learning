@@ -1,4 +1,12 @@
+
+## 目录
+* [vue组件库推荐](#vue组件库推荐)
+* [JS学习资料](#JS学习资料)
+* [Node学习资料](#Node学习资料)
+* [REST API 学习资料](#REST API 学习资料)
+
 ## 学习资料收集
+
 vue组件库推荐
 ---
 
@@ -7,7 +15,7 @@ vue组件库推荐
 |[vue-core-image-upload](http://vanthink-ued.github.io/vue-core-image-upload/index.html#/cn/home) | vue在线编辑图片组件(支持移动端)|
 |[vue-xlsx](http://www.jianshu.com/p/44348319ccde)  | 解析excel表格 |
 
-JS 学习资料
+JS学习资料
 ---
 | | |
 |:-:|:-:|
@@ -20,7 +28,7 @@ JS 学习资料
 | [(英文)](https://github.com/getify/You-Dont-Know-JS) |
 | [正则表达式](http://deerchao.net/tutorials/regex/regex.htm) |
 
- Node 学习资料
+Node学习资料
 ---
 
 |||
