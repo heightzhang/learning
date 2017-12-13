@@ -3,7 +3,7 @@
 * [vue组件库推荐](#vue组件库推荐)
 * [JS学习资料](#JS学习资料)
 * [Node学习资料](#Node学习资料)
-* [REST API 学习资料](#REST API 学习资料)
+* [REST API 学习资料](#RESTAPI学习资料)
 
 ## 学习资料收集
 
@@ -17,6 +17,7 @@ vue组件库推荐
 
 JS学习资料
 ---
+
 | | |
 |:-:|:-:|
 | [JavaScript标准参考教程](http://javascript.ruanyifeng.com/)|
